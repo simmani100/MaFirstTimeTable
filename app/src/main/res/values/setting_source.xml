@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting">
+        <item><b>시간표 시작시간 설정</b>\n시간표에 표시할 시작시간을 설정합니다.</item>
+        <item><b>시간표 종료시간 설정</b><br>\n시간표에 표시할 종료시간을 설정합니다.</br></item>
+        <item><b>마지막 요일 설정</b><br>\n시간표에 표시할 마지막 요일을 설정합니다.</br></item>
+        <item><b>어플 정보</b><br>\n어플정보를 봅니다.</br></item>
+    </string-array>
+</resources>
